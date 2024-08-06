@@ -126,6 +126,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Shreyas S**: [LinkedIn](https://www.linkedin.com/in/shreyas9999/)
 - **GitHub**: [shreyxs9](https://github.com/shreyxs9)
 
-## Contributors - [Sharontm](https://github.com/Sharontm) 
+## Contributors - [Sharontm](https://github.com/Sharontm)
+
 ---
 
