@@ -1,3 +1,5 @@
+Thanks for the clarification. Here's the revised README to reflect that the backend and the API (containing only the ML model) are separate:
+
 ---
 
 # HeartWise
@@ -105,6 +107,7 @@
 - View the prediction result on the dashboard.
 - Explore additional insights and health tips provided.
 
+
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request with your improvements.
@@ -125,9 +128,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Shreyas S**: [LinkedIn](https://www.linkedin.com/in/shreyas9999/)
 - **GitHub**: [shreyxs9](https://github.com/shreyxs9)
+  
+## Contributors
 
-## Contributors 
--[Sharontm](https://github.com/Sharontm)
+- [Sharontm](https://github.com/Sharontm)
 
 ---
 
+This README provides a clear guide to your project setup, reflecting the separation between the backend and the API that contains only the ML model. Adjust the details as needed for your specific setup.
