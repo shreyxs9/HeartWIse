@@ -1,4 +1,3 @@
-Thanks for the clarification. Here's the revised README to reflect that the backend and the API (containing only the ML model) are separate:
 
 ---
 
