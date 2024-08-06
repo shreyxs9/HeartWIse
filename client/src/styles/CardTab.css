@@ -1,0 +1,52 @@
+/* Parent container */
+.card-tab-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+margin-top: 3%;
+    justify-content: center; /* Center cards horizontally */
+    padding: 16px;
+    background-color: #000; /* Optional: Background color for the container */
+  }
+  
+  /* Individual card */
+  .card {
+    flex: 1 0 300px; /* Grow, shrink, and set initial width */
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    background-color: #121212;
+    display: flex;
+    color: #f5f5f5;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 16px;
+  }
+  
+  .card-content {
+    text-align: center;
+  }
+  
+  .card-content h2 {
+    font-size: 1.5em;
+    margin-bottom: 8px;
+  }
+  
+  .card-content p {
+    font-size: 1em;
+    margin-bottom: 16px;
+  }
+  
+  .card-content ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    text-align: left;
+  }
+  
