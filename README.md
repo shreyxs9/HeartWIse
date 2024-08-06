@@ -1,4 +1,3 @@
-
 ---
 
 # HeartWise
@@ -134,4 +133,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-This README provides a clear guide to your project setup, reflecting the separation between the backend and the API that contains only the ML model. Adjust the details as needed for your specific setup.
